@@ -49,9 +49,8 @@ int main()
 }
 ```
 ## OUTPUT
-![WhatsApp Image 2024-05-01 at 21 43 31_6309b8dd](https://github.com/vikamuhan-reddy/Linux-IPC-Shared-memory/assets/144928933/1ff8524b-c8fc-4578-b837-6da97dc73268)
-![WhatsApp Image 2024-05-01 at 21 43 32_bb689275](https://github.com/vikamuhan-reddy/Linux-IPC-Shared-memory/assets/144928933/312347e8-17d0-4800-ba68-ef5484011bf7)
-
+![image](./exp6os.jpg)
+![image](./exp6os1.jpg)
 
 # RESULT:
 The program is executed successfully.
